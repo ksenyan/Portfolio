@@ -84,7 +84,6 @@ li a:hover{
 
 
 * {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
@@ -141,27 +140,4 @@ iframe {
 p3 {
     padding-left: 400px;
     text-align: center;
-}
-.vertical-menu {
-  width: 200px;
-  height: 350px;
-  overflow-y: auto;
-  padding-left: 15px;
-}
-
-.vertical-menu a {
-  background-color: #eee;
-  color: black;
-  display: block;
-  padding: 12px;
-  text-decoration: none;
-}
-
-.vertical-menu a:hover {
-  background-color: #ccc;
-}
-
-.vertical-menu a.active {
-  background-color: #4CAF50;
-  color: white;
 }
