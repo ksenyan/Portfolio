@@ -2,7 +2,7 @@ head {
     background-color: white;
 }
 body {
-    background-color: darkgrey;
+    background-color: grey;
 }
 #top, #bottom, #left, #right {
 	background-color: gainsboro;
