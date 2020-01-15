@@ -84,7 +84,7 @@ li a:hover{
 
 
 * {box-sizing: border-box;}
-.mySlides {display: none; position: fixed;}
+.mySlides {display: none; position: relative;}
 img {vertical-align: middle;}
 
 /* Slideshow container */
