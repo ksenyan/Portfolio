@@ -1,5 +1,8 @@
-body {
+head {
     background-color: white;
+}
+body {
+    background-color: darkgrey;
 }
 #top, #bottom, #left, #right {
 	background-color: gainsboro;
@@ -140,3 +143,4 @@ p3 {
     padding-left: 400px;
     text-align: center;
 }
+
