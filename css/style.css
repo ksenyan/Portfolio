@@ -90,7 +90,7 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-height: 300px;
-  position: relative;
+  position: fixed;
   margin: 1px;
 }
 
