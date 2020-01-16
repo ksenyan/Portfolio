@@ -117,6 +117,7 @@ img {vertical-align: middle;}
   -webkit-animation-duration: 1s;
   animation-name: fade;
   animation-duration: 1s;
+  max-height: 300px;
 }
 
 @-webkit-keyframes fade {
